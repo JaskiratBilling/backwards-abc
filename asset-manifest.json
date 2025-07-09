@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/backwards-abc/static/css/main.5000da85.css",
+    "main.js": "/backwards-abc/static/js/main.a49d8ebb.js",
+    "static/js/453.e77dbddd.chunk.js": "/backwards-abc/static/js/453.e77dbddd.chunk.js",
+    "index.html": "/backwards-abc/index.html",
+    "main.5000da85.css.map": "/backwards-abc/static/css/main.5000da85.css.map",
+    "main.a49d8ebb.js.map": "/backwards-abc/static/js/main.a49d8ebb.js.map",
+    "453.e77dbddd.chunk.js.map": "/backwards-abc/static/js/453.e77dbddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5000da85.css",
+    "static/js/main.a49d8ebb.js"
+  ]
+}
