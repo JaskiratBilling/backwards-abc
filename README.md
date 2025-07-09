@@ -1,5 +1,7 @@
 # Backwards ABC Learning App
 
+Note: completely vibe coded via cursor. I love technology
+
 A simple, minimal React application for learning the alphabet backwards. Start from Z and work your way to A!
 
 ## Features
